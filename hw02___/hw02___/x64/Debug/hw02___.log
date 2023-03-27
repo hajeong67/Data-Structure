@@ -1,6 +1,4 @@
-﻿  hw02___.cpp
-C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\hw02___\hw02___.cpp(117,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\hw02___\hw02___.cpp(121,49): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\hw02___\hw02___.cpp(132,56): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\hw02___\hw02___.cpp(136,46): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  hw02___.vcxproj -> C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\x64\Debug\hw02___.exe
+﻿  hw03.cpp
+C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\hw02___\hw03.cpp(18): warning C4715: 'prec': 모든 제어 경로에서 값을 반환하지는 않습니다.
+hw03.obj : error LNK2005: main이(가) hw02___.obj에 이미 정의되어 있습니다.
+C:\Users\happy\OneDrive\Desktop\dataStructure\hw02___\x64\Debug\hw02___.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
