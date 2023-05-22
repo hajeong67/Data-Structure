@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\hw01_10818",
-    "\\hw02___",
-    "\\hw03",
-    "\\hw06",
-    "\\hw10",
-    "\\hw11"
+    "\\hw11\\hw11",
+    "\\hw12"
   ],
-  "SelectedNode": "\\hw11\\hw11.cpp",
+  "SelectedNode": "\\hw12\\hw12_bfs.cpp",
   "PreviewInSolutionExplorer": false
 }
